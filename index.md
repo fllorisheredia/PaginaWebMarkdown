@@ -1,23 +1,23 @@
 # Mi Página Web en Markdown
 
-¡Bienvenido a mi página web creada con Markdown y desplegada en GitHub Pages!
+Prueba pagina web Markdown
 
-## Tabla de Ejemplo
+## Tabla Puzol
 
-| Nombre     | Edad | Ciudad        |
-|------------|------|---------------|
-| Ana        | 25   | Madrid        |
-| Carlos     | 30   | Barcelona     |
-| Lucía      | 22   | Valencia      |
+| Pueblos      | Habitantes  | Superficie    |
+|--------------|-------------|---------------|
+| Puzol        | 20.742      | 18.6 km2      |
+| MAssamagrell | 16.766      | 6.2 km2       |
+| Lucía        | 9.467       | 4.2 km2       |
 
 ## Imagen
 
-![Imagen de ejemplo](https://via.placeholder.com/150)
+![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandera_de_Pu%C3%A7ol.svg/1200px-Bandera_de_Pu%C3%A7ol.svg.png "Bandera Puzol")
 
-## Enlace a otra página
+## Enlace a la otra página
 
 Visita mi [Página Secundaria](pagina2.md).
 
 ## Créditos
 
-Creado con ❤️ utilizando Markdown.
+fllorisheredia
